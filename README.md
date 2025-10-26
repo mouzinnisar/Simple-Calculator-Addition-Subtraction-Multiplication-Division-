@@ -1,2 +1,16 @@
-# Simple-Calculator-Addition-Subtraction-Multiplication-Division-
-A simple Java console calculator that performs Addition, Subtraction, Multiplication, and Division. It takes user input using the Scanner class and displays the result. Perfect for beginners learning basic Java programming, operators, and control structures.
+# Simple Calculator
+A simple Java calculator that performs basic arithmetic operations.
+
+## 🧠 Features
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+
+## 🛠️ Technologies
+- Java  
+
+## 👨‍💻 Author
+**Moazin Mangi**  
+[LinkedIn](https://www.linkedin.com/in/mouzinnisar/) | [GitHub](https://github.com/mouzinnisar)
+
